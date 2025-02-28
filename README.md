@@ -29,9 +29,9 @@ git checkout -b fiks-oppgave
 
 > 👍 **Tommelfingerregel:**
 >
-> - Skriv store issues som dekker så mye som mulig, så mest mulig blir fikset på én gang
-> - Lag store commiter
-> - Opprett store PR-er som løser mange små problemer i så mange filer som mulig
+> - Skriv små issues som dekker ett problem av gangen
+> - Lag små commiter som gjør én spesifikk endring
+> - Opprett små PR-er (helst med så få filer som mulig)
 
 ## Commit-meldinger: Hva bør de inneholde?
 
