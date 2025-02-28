@@ -19,6 +19,12 @@ Vi starter med å opprette grena lokalt, jobbe lokalt, og deretter dytte alt til
 git switch -c fiks-oppgave
 ```
 
+Man kan også lage en ny branch slik:
+
+```shell
+git checkout -b fiks-oppgave
+```
+
 ## Gjør endringer i repoet
 
 > 👍 **Tommelfingerregel:**
