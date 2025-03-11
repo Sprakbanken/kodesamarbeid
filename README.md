@@ -21,6 +21,8 @@ git switch -c fiks-oppgave
 
 ``` shell 
 git checkout -b fiks-oppgave
+```
+
 ## Gjør endringer i repoet
 
 > 👍 **Tommelfingerregel:**
