@@ -1,5 +1,7 @@
 # Kodesamarbeid
 
+![](./img/dev-code-collaboration.jpg)
+
 Eksempel på arbeidsløype for å samarbeide om kode så enkelt og smertefritt som mulig.
 
 ## Plukk eller opprett et issue
