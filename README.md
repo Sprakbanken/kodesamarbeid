@@ -122,3 +122,4 @@ Det er tre måter å merge koden på. Alle resulterer i samme kode på basegrena
 ## Ressurser
 
 - https://ohshitgit.com/
+- https://learning.oreilly.com/interactive-lab/your-first-git/9781098144425/
