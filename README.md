@@ -36,7 +36,7 @@ En commit-melding er ideelt sett en kort beskrivelse av hvordan koden har endret
 Meldingen er gjerne skrevet i imperativ,
 slik at commit-historikken kan leses som en liste med kommandoer som utføres av commitene meldingene hører til.
 
-**Eksempel:**
+** 📌 Eksempel:**
 
 ```shell
 git add README.md
