@@ -56,9 +56,10 @@ I mange prosjekter inkluderer man en *commit type* i starten av commit-beskrivel
 Det typiske formatet for bruk av commit type `<type>: <description>`.
 
 Noen eksempler på bruk av commit-typer:
-`feat: Add function to visualise distribution of languages in corpus?`
-`docs: Update README.md with examples of producing visualisations`
-`refactor: Cleaning up the spaghetti pan`
+
+- `feat: Add function to visualise distribution of languages in corpus?`
+- `docs: Update README.md with examples of producing visualisations`
+- `refactor: Cleaning up the spaghetti pan`
 
 Et av flere eksempler på hvordan `commit type` kan spesifiseres finnes her: <https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#types>
 
