@@ -28,6 +28,7 @@ git checkout -b fiks-oppgave
 > - Skriv små issues som dekker ett spesifikt problem av gangen
 > - Lag små commiter for én endring av gangen
 > - Opprett små PR-er som løser ett spesifikt problem
+```
 
 ## Commit-meldinger: Hva bør de inneholde?
 
