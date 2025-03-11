@@ -80,7 +80,7 @@ I høyre meny i PR-en kan man velge "Reviewers" og sette en "Assignee" for PR-en
 
 Når man gjør et code review, er det god praksis å holde en hyggelig tone selv om man er uenig i valgene som er blitt gjort.
 
-Legg inn kommentarer og spørsmål hvis noe må tydeliggjøres eller oppklares. Kanskje en logisk brist eller skrivefeil har sneket deg inn i koden som raskt kan ordnes så snart utvikleren gjøres oppmerksom på det.
+Legg inn kommentarer og spørsmål hvis noe må tydeliggjøres eller oppklares. Kanskje en logisk brist eller skrivefeil har sneket seg inn i koden som raskt kan ordnes så snart utvikleren gjøres oppmerksom på det.
 
 Hvis man ser at noe kan løses på en bedre måte, går det an å velge flere linjer og trykke på "Add suggestion"-ikonet:  ![icon](suggestion-icon.png)
 
