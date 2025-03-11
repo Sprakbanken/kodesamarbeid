@@ -122,3 +122,32 @@ Det er tre måter å merge koden på. Alle resulterer i samme kode på basegrena
 ## Ressurser
 
 - https://ohshitgit.com/
+
+## Silly things from Ulrik
+
+Here are some silly things in Python:
+
+```python
+class Transaction:
+    DEFAULT = "transactions"
+
+    def echo(self):
+        return self.DEFAULT
+
+class FakeTransaction:
+    DEFAULT = "fake"
+
+def uppercase(self):
+    return self.DEFAULT.upper()
+
+func = Transaction.echo
+transaction = Transaction()
+fake = FakeTransaction()
+assert func(transaction) == "transactions"
+assert func(fake) == "fake"
+Transaction.echo = uppercase
+assert func(transaction) == "transactions"
+assert func(fake) == "fake"
+func2 = Transaction.echo
+assert func2(transaction) == "TRANSACTIONS"
+```
