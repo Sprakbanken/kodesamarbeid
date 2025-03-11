@@ -45,6 +45,22 @@ git commit -m "Legg til instruksjoner i README slik at andre kan følge samme ar
 
 > 🔗 NAV har en fin guide til commit-meldinger: https://github.com/navikt/offentlig/blob/main/guider/commit-meldinger.md
 
+### Commit-meldinger med *commit type*
+I mange prosjekter inkluderer man en *commit type* i starten av commit-beskrivelsen. Formålet er å ha strukturerte og konsistente commit-meldinger, slik at det er enklere å forstå hva commit legger til, endrer eller fjerner.
+
+Det typiske formatet for bruk av commit type `<type>: <description>`.
+
+Noen eksempler på bruk av commit-typer:
+`feat: Add function to visualise distribution of languages in corpus?`
+`docs: Update README.md with examples of producing visualisations`
+`refactor: Cleaning up the spaghetti pan`
+
+Et av flere eksempler på hvordan `commit type`kan spesifiseres finnes her: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#types
+
+Noen relevante `commit types` for oss kan kanskje være:
+`docs`, `feat`, `fix`, `refactor`, `test`, `build`, `chore`.
+
+
 ## Push grena til repoet på github-serveren
 
 ```shell
