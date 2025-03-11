@@ -4,7 +4,7 @@ Eksempel på arbeidsløype for å samarbeide om kode så enkelt og smertefritt s
 
 ## Plukk eller opprett et issue
 
-I github-repoet viser fanen "Issues" en liste over uløste oppgaver, som vi kan plukke fra om vi ser noe vi kan løse, eller vi kan opprette et nytt issue for en spesifikk oppgave med den grønne knappen helt til høyre.
+I GitHub-repoet viser fanen "Issues" en liste over uløste oppgaver, som vi kan plukke fra om vi ser noe vi kan løse, eller vi kan opprette et nytt issue for en spesifikk oppgave med den grønne knappen helt til høyre.
 
 Issuet bør inneholde en konkret beskrivelse av hva som bør gjøres eller evt. hva resultatet skal være, slik at det er enkelt å avgjøre om oppgaven er løst eller ikke.
 
@@ -64,7 +64,7 @@ Noen relevante `commit types` for oss kan kanskje være:
 `docs`, `feat`, `fix`, `refactor`, `test`, `build`, `chore`.
 
 
-## Push grena til repoet på github-serveren
+## Push grena til repoet på GitHub-serveren
 
 ```shell
 git push -u origin fiks-oppgave
